@@ -3,7 +3,7 @@
 ## Attention
 | Name | Link |
 |------|------|
-| Flash Attention | [OG Paper](https://arxiv.org/pdf/2205.14135) |
+| Flash Attention | [OG Paper](https://arxiv.org/pdf/2205.14135)<br>[FlashAttention-3](https://arxiv.org/pdf/2407.08608) |
 | Multi-Head Latent Attention | [DeepSeek v2](https://arxiv.org/pdf/2405.04434) |
 | Lightning Attention | [Minimax](https://arxiv.org/pdf/2501.08313) |
 | Native Sparse Attention | [Native Sparse Attention](https://arxiv.org/pdf/2502.11089) |
@@ -17,6 +17,8 @@
 | Name | Link |
 |------|------|
 | MoE | [Kexue Tour 1: Geometric Meaning](https://kexue.fm/archives/10699)<br>[Kexue Tour 2: Load Balancing](https://kexue.fm/archives/10735)<br>[DeepSeek v2](https://arxiv.org/pdf/2405.04434)|
+| Gated Delta Networks | [OG Paper](https://arxiv.org/pdf/2412.06464) |
+| Mixture-of-Depths | [OG Paper](https://arxiv.org/pdf/2404.02258) |
 | Manifold-Constrained Hyper-Connections (mHC) | [DeepSeek v4](https://arxiv.org/pdf/2512.24880) |
 | Engram | [Conditional Memory via Scalable Lookup](https://arxiv.org/pdf/2601.07372) |
 | Mamba/SSM | [Mamba-1](https://arxiv.org/pdf/2312.00752)<br>[Mamba-2](https://arxiv.org/pdf/2405.21060)<br>[Mamba-3](https://arxiv.org/pdf/2603.15569)|

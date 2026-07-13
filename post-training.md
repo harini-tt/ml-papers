@@ -13,8 +13,10 @@
 | Classical | [Sutton and Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)<br>[AlphaGo](https://www.nature.com/articles/nature16961)|
 | TRPO | [OG Paper](https://arxiv.org/pdf/1502.05477) |
 | PPO | [OG Paper](https://arxiv.org/pdf/1707.06347) |
+| DPO | [OG Paper](https://arxiv.org/pdf/2305.18290) |
 | GRPO & co | [Shao et al. 2024 😁](https://arxiv.org/pdf/2402.03300)<br>[DAPO](https://arxiv.org/pdf/2503.14476)<br>[GSPO](https://arxiv.org/pdf/2507.18071)<br>[CISPO](https://arxiv.org/pdf/2506.13585)<br>[Dr. GRPO](https://arxiv.org/pdf/2503.20783)<br>[REINFORCE++](https://arxiv.org/pdf/2501.03262)<br>[RLOO](https://arxiv.org/pdf/2402.14740) |
 | Reward Modeling | [Process Supervision](https://arxiv.org/pdf/2305.20050)<br>[GenRM](https://arxiv.org/pdf/2410.12832) |
+| RL Behaviors | [SFT Memorizes RL Generalizes](https://arxiv.org/pdf/2501.17161) |
 
 ## Distillation
 | Name | Link |
