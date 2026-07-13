@@ -10,3 +10,4 @@
 | Medusa | [OG Paper](https://arxiv.org/pdf/2401.10774) |
 | EAGLE | [EAGLE-1](https://arxiv.org/pdf/2401.15077)<br>[EAGLE-2](https://arxiv.org/pdf/2406.16858)<br>[EAGLE-3](https://arxiv.org/pdf/2503.01840)|
 | DFlash | [OG Paper](https://arxiv.org/pdf/2602.06036)<br>[Modal Blog](https://modal.com/blog/spec-is-all-u-need) |
+| DSpark | [DSpark Paper](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) |
