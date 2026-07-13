@@ -11,3 +11,4 @@
 | EAGLE | [EAGLE-1](https://arxiv.org/pdf/2401.15077)<br>[EAGLE-2](https://arxiv.org/pdf/2406.16858)<br>[EAGLE-3](https://arxiv.org/pdf/2503.01840)|
 | DFlash | [OG Paper](https://arxiv.org/pdf/2602.06036)<br>[Modal Blog](https://modal.com/blog/spec-is-all-u-need) |
 | DSpark | [DSpark Paper](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) |
+| Test Time Scaling | [Tree of Thoughts](https://arxiv.org/pdf/2305.10601)<br>[Tilde Local Branch Routing](https://arxiv.org/pdf/2606.25354) |
