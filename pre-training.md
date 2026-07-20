@@ -11,13 +11,13 @@
 | Minimax Sparse Attention | [Minimax Sparse Attention](https://arxiv.org/pdf/2606.13392) |
 | Paged Attention | [OG Paper](https://arxiv.org/pdf/2309.06180) |
 | Attention Sinks | [StreamingLLM](https://arxiv.org/pdf/2309.17453) |
-| Linear Attention | [Kexue Transformer Upgrade 5](https://kexue.fm/archives/8601)<br>[Kimi Linear](https://arxiv.org/pdf/2510.26692) |
+| Linear Attention & co | [Kexue Transformer Upgrade 5](https://kexue.fm/archives/8601)<br>[Kimi Linear](https://arxiv.org/pdf/2510.26692)<br>[Log Linear Attention](https://arxiv.org/pdf/2506.04761)|
 
 ## Architecture
 | Name | Link |
 |------|------|
-| MoE | [Kexue Tour 1: Geometric Meaning](https://kexue.fm/archives/10699)<br>[Kexue Tour 2: Load Balancing](https://kexue.fm/archives/10735)<br>[DeepSeek v2](https://arxiv.org/pdf/2405.04434)|
-| Gated Delta Networks | [OG Paper](https://arxiv.org/pdf/2412.06464) |
+| MoE | [Kexue Tour 1: Geometric Meaning](https://kexue.fm/archives/10699)<br>[Kexue Tour 2: Load Balancing](https://kexue.fm/archives/10735)<br>[DeepSeek v2](https://arxiv.org/pdf/2405.04434)<br>[Nemotron LatentMoE](https://research.nvidia.com/labs/nemotron/LatentMoE/)|
+| Gated Delta Networks | [OG Paper](https://arxiv.org/pdf/2412.06464)<br>[Blog Post](https://sustcsonglin.github.io/blog/2024/deltanet-1/) |
 | Mixture-of-Depths | [OG Paper](https://arxiv.org/pdf/2404.02258) |
 | Manifold-Constrained Hyper-Connections (mHC) | [DeepSeek v4](https://arxiv.org/pdf/2512.24880) |
 | Engram | [Conditional Memory via Scalable Lookup](https://arxiv.org/pdf/2601.07372) |
